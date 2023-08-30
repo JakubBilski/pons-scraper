@@ -1,43 +1,40 @@
-"1: kot
-2: kocur
-";"die Kạtze, die Kạtzen
-
-wenn die Katze  aus dem Haus ist tanzen die Mäuse
-(myszy tańcują gdy kota nie czują)
-
-
-der Ka̱ter, die Ka̱ter
-
-
-"
-"1: kraj
-2: ziemia
-";"das Lạnd, die Länder
-
-
-das Lạnd, die Lạnde
-
-drei Jahre gingen ins Land
-(minęły trzy lata)
-
-
-"
-"1: córka
-2: spółka zależna
-";"die Tọchter, die Töchter
-
-
-die Tọchtergesellschaft, die Tọchtergesellschaften
-
-
-"
-"1: przestrzeń życiowa
-";"der Le̱bensraum, die Le̱bensräume
-
-
-"
-"1: korkociąg
-";"der Kọrkenzieher, die Kọrkenzieher
-
-
-"
+1: uprzedzenie<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(255,231,161)"">das</span> Vorurteil, <span style=""background-color:rgb(255,122,154)"">die</span> Vorurteile</span><br><br><br>"
+1: były<br>;"<span style=""font-size: 1.2em"">ehemalig</span><br><br>"
+1: startować<br>;"<span style=""font-size: 1.2em"">starten</span><br><br>"
+1: zaburzenia jedzenia<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(255,122,154)"">die</span> Essstörung, <span style=""background-color:rgb(255,122,154)"">die</span> Essstörungen</span><br><br><br>"
+1: poborowy<br>2: mający nadwagę<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Wehrpflichtige, <span style=""background-color:rgb(255,122,154)"">die</span> Wehrpflichtigen</span><br><br><br><span style=""font-size: 1.2em"">übergewichtig</span><br><br>"
+1: substancja odżywcza<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Nährstoff, <span style=""background-color:rgb(255,122,154)"">die</span> Nährstoffe</span><br><br><br>"
+1: do tego stopnia<br>;"<span style=""font-size: 1.2em"">derart</span><br><br>"
+1: podlewać<br>;"<span style=""font-size: 1.2em"">gießen +A</span><br><span style=""color:gray"">gießt, goss, gegossen</span><br><br>"
+1: usuwać<br>2: oddalenie się<br>;"<span style=""font-size: 1.2em"">entfernen +A</span><br><br><span style=""font-size: 1.2em""><span style=""background-color:rgb(255,231,161)"">das</span> Entfernen, -</span><br><br><br>"
+1: białko<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(255,231,161)"">das</span> Eiweiß, <span style=""background-color:rgb(255,122,154)"">die</span> Eiweiße</span><br><br><br>"
+1: żółtko<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(255,231,161)"">das</span> Eigelb, <span style=""background-color:rgb(255,122,154)"">die</span> Eigelbe</span><br><br><br>"
+1: prowokować<br>;"<span style=""font-size: 1.2em"">reizen +A</span><br><br>"
+1: niewielki<br>;"<span style=""font-size: 1.2em"">gering</span><br><br>"
+1: znaczny<br>;"<span style=""font-size: 1.2em"">wesentlich</span><br><br>"
+1: uratować<br>;"<span style=""font-size: 1.2em"">bergen +A</span><br><span style=""color:gray"">birgt, barg, geborgen</span><br><br>"
+1: stan<br>2: stan obecny<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Zustand, <span style=""background-color:rgb(255,122,154)"">die</span> Zustände</span><br><br><br><span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Istzustand, <span style=""background-color:rgb(255,122,154)"">die</span> Istzustände</span><br><br><br>"
+1: rezygnować czegoś<br>;"<span style=""font-size: 1.2em"">auf verzichten</span><br><br>"
+1: nasadka<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Ansatz, <span style=""background-color:rgb(255,122,154)"">die</span> Ansätze</span><br><br><br>"
+1: siemię lniane<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Leinsaat, <span style=""background-color:rgb(255,122,154)"">die</span> Leinsaaten</span><br><br><br>"
+1: gruby<br>;"<span style=""font-size: 1.2em"">grob</span><br><br>"
+1: wystarczający<br>2: wystarczyć dla kogoś na coś<br>;"<span style=""font-size: 1.2em"">ausreichend</span><br><br><span style=""font-size: 1.2em"">für ausreichen</span><br><br>"
+1: dokonywać<br>2: prawidło<br>;"<span style=""font-size: 1.2em"">leisten +A</span><br><br><span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Leisten, <span style=""background-color:rgb(255,122,154)"">die</span> Leisten</span><br><br>alles über einen Leisten Leisten  schlagen<br>(robić wszystko na jedno kopyto)<br><br><br>"
+1: mieszać<br>2: wygasać<br>;"<span style=""font-size: 1.2em"">mischen +A</span><br><br><span style=""font-size: 1.2em"">erlöschen</span><br><span style=""color:gray"">erlischt, erlosch, erloschen</span><br><br>"
+1: wypracować sobie pozycję<br>;"<span style=""font-size: 1.2em"">sich Position erarbeiten +A</span><br><br>"
+1: nie żałować komuś czegoś<br>;"<span style=""font-size: 1.2em"">gönnen +A</span><br><br>"
+1: gęstość<br>2: duży<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(255,122,154)"">die</span> Dichte, <span style=""background-color:rgb(255,122,154)"">die</span> Dichten</span><br><br><br><span style=""font-size: 1.2em"">dicht</span><br><br>"
+1: jakim stopniu<br>;"<span style=""font-size: 1.2em"">inwiefern</span><br><br>"
+1: to samo<br>2: ten sam<br>;"<span style=""font-size: 1.2em"">dasselbe</span><br><br><span style=""font-size: 1.2em"">derselbe</span><br><br>"
+1: po pchnąć<br>;"<span style=""font-size: 1.2em"">stoßen +A</span><br><span style=""color:gray"">stößt, stieß, gestoßen</span><br><br>"
+1: rozpościerać<br>2: szerokość<br>;"<span style=""font-size: 1.2em"">breiten +A</span><br><br><span style=""font-size: 1.2em""><span style=""background-color:rgb(255,122,154)"">die</span> Breite, <span style=""background-color:rgb(255,122,154)"">die</span> Breiten</span><br><br><br>"
+1: być innej orientacji seksualnej<br>;"<span style=""font-size: 1.2em"">andersherum  sein</span><br><br>"
+1: skalowalny<br>2: skalować<br>;"<span style=""font-size: 1.2em"">skalierbar</span><br><br><span style=""font-size: 1.2em"">skalieren +A</span><br><br>"
+1: niepojęty<br>2: dostosowywać<br>;"<span style=""font-size: 1.2em"">unfassbar</span><br><br><span style=""font-size: 1.2em"">anpassen +A</span><br><br>"
+1: ruszać<br>2: przyciągać kogoś coś do siebie<br>;"<span style=""font-size: 1.2em"">anziehen</span><br><br><span style=""font-size: 1.2em"">zu sich heranziehen +A</span><br><br>"
+1: roszczenie<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Anspruch, <span style=""background-color:rgb(255,122,154)"">die</span> Ansprüche</span><br><br><br>"
+1: niemiły<br>;"<span style=""font-size: 1.2em"">unangenehm</span><br><br>"
+1: odczuwać wstręt do kogoś wobec czegoś<br>;"<span style=""font-size: 1.2em"">verabscheuen +A</span><br><br>"
+1: wyzwalacz<br>;"<span style=""font-size: 1.2em""><span style=""background-color:rgb(146,196,255)"">der</span> Auslöser, <span style=""background-color:rgb(255,122,154)"">die</span> Auslöser</span><br><br><br>"
+1: autentyczny<br>;"<span style=""font-size: 1.2em"">tatsächlich</span><br><br>"
+1: wyśmiewać<br>2: przełazić przez ulicę<br>;"<span style=""font-size: 1.2em"">auslachen +A</span><br><br><span style=""font-size: 1.2em"">über die Straße latschen</span><br><br>"
